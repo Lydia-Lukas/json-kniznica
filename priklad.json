@@ -1,0 +1,39 @@
+{
+    "books": [
+        {
+            "name": {
+                "original": "Pride and Prejudice",
+                "translation": "Pýcha a predsudok"
+            },
+
+            "autor": "Jane Austen",
+            "year": 1813,
+            "read": true,
+            "color": ["pink", "white"]
+        },
+
+        {
+            "name": {
+                "original": "Der Steppenwolf",
+                "translation": "Stepný vlk"
+            },
+
+            "autor": "Hermann Hesse",
+            "year": 1927,
+            "read": false,
+            "color": ["brown", "gold"]
+        },
+
+        {
+            "name": {
+                "original": "Sapiens",
+                "translation": "Sapiens"
+            },
+
+            "autor": "Yuval Noah Harari",
+            "year": 2011,
+            "read": true,
+            "color": ["red", "white"] 
+        }
+    ]
+}
